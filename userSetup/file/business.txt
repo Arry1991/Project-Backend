@@ -1,0 +1,7 @@
+1,Riffpedia,Restaurant,swaith0@mozilla.org,758-526-2830,theguardian.com,430 Elgar Circle,West Palm Beach,33405,Albany
+2,Jabberbean,Restaurant,doxburgh1@merriam-webster.com,309-161-9488,constantcontact.com,133 Vera Center,Cincinnati,45218,Bronx
+3,Photolist,Restaurant,dtyhurst2@php.net,547-488-2217,bluehost.com,35 Bunker Hill Place,Grand Forks,58207,Montgomery
+4,Mynte,Restaurant,bmacilurick3@163.com,708-681-9662,comcast.net,124 Schmedeman Hill,San Diego,92127,Queens
+5,Mydeo,Restaurant,tpirdy4@nih.gov,871-603-2110,paginegialle.it,34 Moose Lane,Maple Plain,55572,Suffolk
+6,Yombu,Restaurant,gfretter5@youtube.com,484-897-8518,barnesandnoble.com,244 Elmside Lane,Asheville,28805,Clinton
+7,Skaboo,Restaurant,cmcelane6@is.gd,859-868-8440,mapy.cz,183 Bluejay Road,Evansville,47732,Columbia
